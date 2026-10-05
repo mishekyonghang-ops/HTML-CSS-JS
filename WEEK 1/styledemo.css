@@ -1,0 +1,27 @@
+/* h1{
+    color:rgb(84, 210, 30);
+} */
+.font1{
+    font-size:xx-large;
+    font-weight:lighter;
+    background-color: aqua;
+    text-align: center;
+
+}
+p{
+    line-height:normal;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+}
+div{
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-top:20px;
+    border:2px dotted rgb(5, 2, 2);
+    border-top:solid rgb(163, 14, 14) ;
+    margin:30px;
+}
+div.second{
+    margin-left: 20px;
+}

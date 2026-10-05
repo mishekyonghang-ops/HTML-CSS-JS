@@ -1,0 +1,25 @@
+h3{
+    color:blue;
+
+}
+
+/*class selector */
+/* you can declare same class name in muliyple elements/tags.
+You must declare unique id in a html page. */
+/*
+.className{
+property:value;
+}
+*/
+.ClassE{
+    color:rgb(174, 38, 179);
+}
+/* id selector */
+/*
+#idName{
+property: value;
+}
+*/
+#Notcalix{
+    color:rgb(163, 255, 127);
+}

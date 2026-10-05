@@ -1,0 +1,25 @@
+h1{
+    background-color:rgb(8, 1, 14);
+    text-align:center;
+    font-size:30px;
+}
+div {
+  border: 3px solid black;
+  padding: 15px;
+  margin: 20px;
+  height: 120px;
+  width: 300px;
+}
+.box-two {
+  background-color: lightblue;
+  color: darkblue;
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+  text-align: center;
+}
+#box-three {
+  background-color: lightgreen;
+  color: darkgreen;
+  text-align: right;
+
+}
