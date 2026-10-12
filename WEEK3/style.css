@@ -1,0 +1,52 @@
+button{
+    background-color:rgb(237, 203, 203);
+}
+button:hover{
+    background-color:rgb(198, 187, 37);
+}
+.DemoHover{
+    color:rgb(45, 192, 47);
+}
+.DemoHover{
+    background-color: rgb(94, 24, 124);
+}
+#watch{
+    height:300px;
+    width:400px;
+    opacity:.5;
+}
+#watch:hover{
+    opacity:1;
+}
+p::before{
+    content:"PARAGRAPH";
+    color:rgb(45, 192, 47);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+
+}
+p::after{
+    content:" ";
+    display: inline-block;
+    color:rgb(45, 192, 47);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+
+}
+.photo{
+    text-align: center;
+
+}
+.photo.img{
+    height: 300px;
+    width: 300px;
+}
+.photo figcaption{
+    color: rgb(45, 192, 47);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+.photo figcaption::before{
+    content:"fig1";
+  
+}
